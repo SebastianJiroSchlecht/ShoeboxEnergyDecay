@@ -26,7 +26,7 @@
 
 ### Image Source Model (Ground Truth)
 
-<img src="{{ site.baseurl}}/examples/images/ism.jpg" alt="Spectrgrom of ISM" style="height: 600px; width:600px;"/>
+<img src="{{ site.baseurl}}/examples/images/ism.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
 
 <audio controls>
   <source src="{{ site.baseurl}}/examples/sounds/ism.wav" type="audio/ogg">
@@ -36,7 +36,7 @@
 
 ### Stochastic Model (Proposed)
 
-<img src="{{ site.baseurl}}/examples/images/stochastic.jpg" alt="Spectrgrom of ISM" style="height: 600px; width:600px;"/>
+<img src="{{ site.baseurl}}/examples/images/stochastic.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
 
 <audio controls>
   <source src="{{ site.baseurl}}/examples/sounds/stochastic.wav" type="audio/ogg">
@@ -46,7 +46,7 @@
 
 ### Fast Stochastic ISM - Early ISM and Late Stochastic 
 
-<img src="{{ site.baseurl}}/examples/images/combined.jpg" alt="Spectrgrom of ISM" style="height: 600px; width:600px;"/>
+<img src="{{ site.baseurl}}/examples/images/combined.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
 
 <audio controls>
   <source src="{{ site.baseurl}}/examples/sounds/combined.wav" type="audio/ogg">
