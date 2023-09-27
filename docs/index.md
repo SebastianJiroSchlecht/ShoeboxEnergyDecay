@@ -23,6 +23,8 @@
 
 ## Frequency-dependent damping of shoebox room
  
+<img src="{{ site.baseurl}}/examples/images/ism.jpg" alt="Spectrgrom of ISM" style="height: 100px; width:100px;"/>
+
 ### Image Source Model (Ground Truth)
 <audio controls>
   <source src="{{ site.baseurl}}/examples/sounds/ism.wav" type="audio/ogg">
