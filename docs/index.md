@@ -23,9 +23,11 @@
 
 ## Frequency-dependent damping of shoebox room
  
-<img src="{{ site.baseurl}}/examples/images/ism.jpg" alt="Spectrgrom of ISM" style="height: 100px; width:100px;"/>
 
 ### Image Source Model (Ground Truth)
+
+<img src="{{ site.baseurl}}/examples/images/ism.jpg" alt="Spectrgrom of ISM" style="height: 100px; width:100px;"/>
+
 <audio controls>
   <source src="{{ site.baseurl}}/examples/sounds/ism.wav" type="audio/ogg">
   <source src="{{ site.baseurl}}/examples/sounds/ism.wav" type="audio/mpeg">
@@ -33,6 +35,9 @@
 </audio>
 
 ### Stochastic Model (Proposed)
+
+<img src="{{ site.baseurl}}/examples/images/stochastic.jpg" alt="Spectrgrom of ISM" style="height: 100px; width:100px;"/>
+
 <audio controls>
   <source src="{{ site.baseurl}}/examples/sounds/stochastic.wav" type="audio/ogg">
   <source src="{{ site.baseurl}}/examples/sounds/stochastic.wav" type="audio/mpeg">
@@ -40,6 +45,9 @@
 </audio>
 
 ### Fast Stochastic ISM - Early ISM and Late Stochastic 
+
+<img src="{{ site.baseurl}}/examples/images/combined.jpg" alt="Spectrgrom of ISM" style="height: 100px; width:100px;"/>
+
 <audio controls>
   <source src="{{ site.baseurl}}/examples/sounds/combined.wav" type="audio/ogg">
   <source src="{{ site.baseurl}}/examples/sounds/combined.wav" type="audio/mpeg">
