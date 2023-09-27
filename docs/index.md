@@ -26,17 +26,15 @@
 
 ### Image Source Model (Ground Truth)
 
-<img src="{{ site.baseurl}}/examples/images/ism.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
-
 <audio controls>
   <source src="{{ site.baseurl}}/examples/sounds/ism.wav" type="audio/ogg">
   <source src="{{ site.baseurl}}/examples/sounds/ism.wav" type="audio/mpeg">
   Your browser does not support the audio tag. 
 </audio>
 
-### Stochastic Model (Proposed)
+<img src="{{ site.baseurl}}/examples/images/ism.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
 
-<img src="{{ site.baseurl}}/examples/images/stochastic.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
+### Stochastic Model (Proposed)
 
 <audio controls>
   <source src="{{ site.baseurl}}/examples/sounds/stochastic.wav" type="audio/ogg">
@@ -44,12 +42,16 @@
   Your browser does not support the audio tag. 
 </audio>
 
-### Fast Stochastic ISM - Early ISM and Late Stochastic 
+<img src="{{ site.baseurl}}/examples/images/stochastic.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
 
-<img src="{{ site.baseurl}}/examples/images/combined.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
+
+### Fast Stochastic ISM - Early ISM and Late Stochastic 
 
 <audio controls>
   <source src="{{ site.baseurl}}/examples/sounds/combined.wav" type="audio/ogg">
   <source src="{{ site.baseurl}}/examples/sounds/combined.wav" type="audio/mpeg">
   Your browser does not support the audio tag. 
 </audio>
+
+<img src="{{ site.baseurl}}/examples/images/combined.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
+
