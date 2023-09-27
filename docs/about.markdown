@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Physical Modeling using Recurrent Neural Networks with Fast Convolutional Layers
+title: Improved Energy Decay Model of the Image Source Method of a Shoebox-Shaped Room
 permalink: /about/
 ---
 
-# Physical Modeling using Recurrent Neural Networks with Fast Convolutional Layers
+# Improved Energy Decay Model of the Image Source Method of a Shoebox-Shaped Room
 
-This is the accompanying repository to the paper submission for DAFx20in22, Vienna, Austria by Julian D. Parker, Sebastian J. Schlecht, Rudolf Rabenstein, Maximilian Schäfer. The paper is currently in review.
+This is the accompanying repository to the paper submission for JASA by Sebastian J. Schlecht, Karolina Prawda, Rudolf Rabenstein, Maximilian Schäfer. The paper is currently in review.
 
 
 ## Abstract
-Discrete-time modeling of acoustic, mechanical and electrical systems is a prominent topic in the musical signal processing literature. Such models are mostly derived by discretizing a mathematical model, given in terms of ordinary or partial differential equations, using established techniques. Recent work has applied the techniques of machine-learning to construct such models automatically from data for the case of systems which have lumped states described by scalar values, such as electrical circuits. In this work, we examine how similar techniques are able to construct models of systems which have spatially distributed rather than lumped states. We describe several novel recurrent neural network structures, and show how they can be thought of as an extension of modal techniques. As a proof of concept, we generate synthetic data for three physical systems and show that the proposed network structures can be trained with this data to reproduce the behavior of these systems. 
+The image-source method is widely applied to compute room impulse responses (RIRs) of shoebox-shaped rooms with arbitrary damping. However, with increasing RIR lengths, image sources grow rapidly, leading to slow computation. We propose an improved directional energy decay model that accurately matches the late reverberation. We derive a closed-form expression for the omnidirectional energy decay, which characterizes the overall multi-slope energy decay. The proposed model allows the fast stochastic synthesis of late reverberation. A Monte Carlo simulation of various damping coefficients and room dimensions demonstrates the model's accuracy. The proposed model outperforms the T60 prediction of an earlier method consistently and more accurately predicts rooms with low absorption.
