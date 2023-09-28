@@ -32,7 +32,7 @@
   Your browser does not support the audio tag. 
 </audio>
 
-<img src="{{ site.baseurl}}/examples/images/ism.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
+<img src="{{ site.baseurl}}/examples/images/Fig9a.png" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
 
 ### Stochastic Model (Proposed)
 
@@ -42,7 +42,7 @@
   Your browser does not support the audio tag. 
 </audio>
 
-<img src="{{ site.baseurl}}/examples/images/stochastic.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
+<img src="{{ site.baseurl}}/examples/images/Fig9b.png" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
 
 
 ### Fast Stochastic ISM - Early ISM and Late Stochastic 
@@ -53,5 +53,5 @@
   Your browser does not support the audio tag. 
 </audio>
 
-<img src="{{ site.baseurl}}/examples/images/combined.jpg" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
+<img src="{{ site.baseurl}}/examples/images/Fig9c.png" alt="Spectrgrom of ISM" style="height: 400px; width:600px;"/>
 
